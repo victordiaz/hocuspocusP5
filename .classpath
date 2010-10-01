@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/controlP5.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/core.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/jl1.0.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/jsminim.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/minim-spi.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/minim.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/oscP5.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/postgresql-8.3-604.jdbc3.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/processing-core.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/SQLibrary.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/sqlitejdbc-v053-pure.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/udp.jar"/>
+	<classpathentry kind="lib" path="/XIMSimpleExperimenter/lib/video.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
